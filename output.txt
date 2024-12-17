@@ -1,0 +1,10 @@
+total 52
+drwxrwxr-x 3 yashkathe yashkathe  4096 Dec 16 23:57 .
+drwxrwxr-x 4 yashkathe yashkathe  4096 Dec 15 13:10 ..
+-rw-rw-r-- 1 yashkathe yashkathe     2 Dec 15 13:17 demo.txt
+drwxrwxr-x 8 yashkathe yashkathe  4096 Dec 16 23:29 .git
+-rw-rw-r-- 1 yashkathe yashkathe    16 Dec 16 23:27 .gitignore
+-rw-rw-r-- 1 yashkathe yashkathe 12107 Dec 16 23:52 module-os.ipynb
+-rw-rw-r-- 1 yashkathe yashkathe 14794 Dec 16 23:54 module-subprocess.ipynb
+-rw-rw-r-- 1 yashkathe yashkathe     0 Dec 16 23:57 output.txt
+-rw-rw-r-- 1 yashkathe yashkathe    88 Dec 16 23:29 README.md
