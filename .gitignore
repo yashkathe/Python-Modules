@@ -1,2 +1,6 @@
 demo.txt
 .vscode
+bin
+include
+lib
+lib64
