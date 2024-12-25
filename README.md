@@ -17,10 +17,13 @@ Jupyter Notebooks covering certain topics in Python
 
 ### Sub Topics
 
-[Object Oriented Programming with Python](./tut_oop_classes.ipynb)
+[Object Oriented Programming with Python](./tut_oop_classes.ipynb)  
 [Reading and Writing to a File](./tut_reading_and_writing_to_files.ipynb)  
 [Try Except Blocks for error handling](./tut_try_except.ipynb)  
 [Difference between Str() and Repr()](./tut_str_vs_repr.ipynb)
+[Variable Scope](./tut_variable_scope.ipynb)  
+[Generators](./tut_generators.ipynb)  
+[Decorators](./tut_decorators.ipynb)
 
 ### Basic Operations on Data Structures
 
