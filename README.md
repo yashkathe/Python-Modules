@@ -6,14 +6,15 @@ Jupyter Notebooks covering certain topics in Python
 
 ### Python Modules
 
-[OS module](./demo.txt)  
+[OS module](./module-os.ipynb)  
 [Subprocess module](./module-subprocess.ipynb)  
 [Random module](./module-random.ipynb)  
 [Datetime module](./module-datetime.ipynb)  
 [CSV module](./module_csv.ipynb)  
 [JSON module](./module_json.ipynb)  
 [RE module (Regular Expressions)](./module_regular_expressions.ipynb)  
-[ArgParse module (Parse CMD Arguments) ](./module_argparse.py)
+[ArgParse module (Parse CMD Arguments)](./module_argparse.py)  
+[Logging module](./module_logging.ipynb)  
 
 ### Sub Topics
 
@@ -24,6 +25,7 @@ Jupyter Notebooks covering certain topics in Python
 [Variable Scope](./tut_variable_scope.ipynb)  
 [Generators](./tut_generators.ipynb)  
 [Decorators](./tut_decorators.ipynb)
+[name = main](./tut_name_eq_main.ipynb)
 
 ### Basic Operations on Data Structures
 
