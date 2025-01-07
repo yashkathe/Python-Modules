@@ -15,6 +15,7 @@ Jupyter Notebooks covering certain topics in Python
 [RE module (Regular Expressions)](./module_regular_expressions.ipynb)  
 [ArgParse module (Parse CMD Arguments)](./module_argparse.py)  
 [Logging module](./module_logging.ipynb)  
+[Numpy module](./module_numpy.ipynb)
 
 ### Sub Topics
 
@@ -36,4 +37,4 @@ Jupyter Notebooks covering certain topics in Python
 
 ## Credits
 
-Thank you [Corey Schaufer](https://www.youtube.com/@coreyms) for his amazing python videos
+Thank you [Corey Schaufer](https://www.youtube.com/@coreyms) and FCC for their amazing python videos
