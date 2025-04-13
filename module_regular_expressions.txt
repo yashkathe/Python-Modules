@@ -28,3 +28,29 @@ Quantifiers:
 #### Sample Regexs ####
 
 [a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+
+
+#### Extra Notes
+
+======================================================
+
+when having two nested bracket (())
+outer can be capturing group 
+inner can be for OR condition
+
+so to say that () are not capturing group we use ?:
+
+eg:
+
+re.compile(r"((?:ERROR|WARNING|INFO))")
+
+=====================================================
+
+greedy vs non-greedy matching 
+
+.*  => greedy
+Tries to match as much as possible and will consume everything it can, even if it overshoots
+
+.*? => non-greedy
+Tries to match as little as possible and stops as soon as it can satisfy the pattern
+
+=====================================================
